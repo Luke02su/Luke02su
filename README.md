@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Meu nome é Lucas, sou de Patrocínio -  MG, Brasil.</p>
+<p align="left">Meu nome é Lucas, sou de Patrocínio - MG, Brasil. E graduante do quinto período de ADS.</p>
+<p align="right">"A maioria dos homens vivem vidas de silencioso desespero". (Thoreau)</p>
 
 ###
 
