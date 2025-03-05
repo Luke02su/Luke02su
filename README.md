@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Entusiasta de SQL...<br>📚 Objetivo ser um DBA...<br>🎯 Amo livros e poesia...<br>☸️ Praticante do Dharma...</p>
+<p align="left">✨ Entusiasta de SQL...<br>📚 Objetivo de ser um DBA...<br>🎯 Amo livros e poesia...<br>☸️ Praticante do Dharma...</p>
 
 ###
 
