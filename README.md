@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lucas, I’m from Patrocínio - MG, Brazil. I’m currently in the fifth semester of my ADS degree.</p>
+<p align="left">My name is Lucas, I’m from Patrocínio - MG, Brazil. I’m currently in the sixth semester of my ADS degree.</p>
 <p align="right">"The mass of men lead lives of quiet desperation." (Thoreau)</p>
 
 ###
