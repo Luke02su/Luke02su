@@ -1,21 +1,21 @@
-<h1 align="left">Olá! 👋 Tudo bem?</h1>
+<h1 align="left">Hello! 👋 How are you?</h1>
 
 ###
 
-<p align="left">Meu nome é Lucas, sou de Patrocínio - MG, Brasil. E graduante do quinto período de ADS.</p>
-<p align="right">"A maioria dos homens vivem vidas de silencioso desespero." (Thoreau)</p>
+<p align="left">My name is Lucas, I’m from Patrocínio - MG, Brazil. I’m currently in the fifth semester of my ADS degree.</p>
+<p align="right">"The mass of men lead lives of quiet desperation." (Thoreau)</p>
 
 ###
 
-<h2 align="left">Sobre mim:</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
-<p align="left">✨ Entusiasta de SQL...<br>🎯 Objetivo de entrar no universo dos dados...<br>📚 Amo literatura e poesia...<br>☸️ Praticante do Dharma...</p>
+<p align="left">✨ SQL enthusiast...<br>🎯 Goal: to enter the world of data...<br>📚 I love literature and poetry...<br>☸️ Dharma practitioner...</p>
 
 ###
 
-<h2 align="left">Eu codifico com</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -28,9 +28,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
+  <img src="https://cdn.jsdelivr.net/g
